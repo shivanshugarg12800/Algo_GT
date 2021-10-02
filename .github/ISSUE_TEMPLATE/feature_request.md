@@ -2,7 +2,7 @@
 name: Feature request
 about: It can be anything from editing existing code to adding new codes
 title: ''
-labels: ''
+labels: Hacktoberfest
 assignees: ''
 
 ---
