@@ -1,4 +1,5 @@
 <img src = "./assets/algoGT.png"  alt = "algoGT logo">
+&copy; Dragon ball GT
 
 ### INTRODUCTION
 
