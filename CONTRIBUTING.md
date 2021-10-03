@@ -27,27 +27,27 @@ Issues can be used to keep track of all the new problems that are to be added an
 Pull requests are to be made after an issue has been assigned to you.<br>
 These Guidelines will teach how to contribute to any other people's repository in general and not limited to this repository.
 
-1. <b>Fork</b> the repository.<br> Forking the repository makes a local copy of the parent repository in your Github account.
+1. <b>Fork</b> the repository.<br> Forking the repository makes a local copy of the parent repository in your Github account.<br>
 
 <img src = "./assets/fork.PNG" >
 
-2. Now move to your forked repository in your account.<br>Click on the <b>Code</b> button in green and copy the link to the repository.
+2. Now move to your forked repository in your account.<br>Click on the <b>Code</b> button in green and copy the link to the repository.<br>
    <img src="./assets/code.PNG">
 
 3. Now move to your code editor and open terminal.<br>
-   Move to your desired path in the terminal and enter this command.
-   <img src="./assets/clone.png" width="400">
+   Move to your desired path in the terminal and enter this command.<br>
+   <img src="./assets/clone.PNG" width="400">
 
 Don't forget, you have to copy from your own forked repository so that it contains your username in the code link.
 
-4. Now cd to the folder of the repository.
-   <img src = "./assets/cd.png" width="400">
+4. Now cd to the folder of the repository.<br>
+   <img src = "./assets/cd.PNG" width="400">
 
 5. Now you have to create a new branch<br>
    Switch to Development Branch. Never develop on Master Branch. Push in the command: <br><code>git checkout < YOURUSERNAME ></code>
-
-<img src="./assets/branch.png" width="400">
-<img src="./assets/branch2.png" width="400">
+   <br>
+   <img src="./assets/branch.PNG" width="400">
+   <img src="./assets/branch2.PNG" width="400">
 
 6. Start Coding. Make commits with proper commit messages. <br>
    After you have made changes/ added new files
