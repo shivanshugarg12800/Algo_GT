@@ -62,4 +62,10 @@ for that write this command after commiting-<br>
 After that you can go on and push your changes<br>
 <code> git push</code><br>
 
-7.
+7. Once you push the changes to your repo, Go to your forked repository, the Compare & pull request button will appear in GitHub.<br>
+   <img src="./assets/PR.PNG">
+
+8. Open a pull request by clicking the Create pull request button. It will be viewed by maintainers and merged.<br>
+   <img src="./assets/PR2.PNG">
+
+### CONGRATULATIONS!!, YOU MADE YOUR SUCCESSFUL PR.
