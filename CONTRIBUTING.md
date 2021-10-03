@@ -8,16 +8,16 @@ Issues can be used to keep track of all the new problems that are to be added an
 
 #### DO NOT MAKE PR WITHOUT CREATING AN ISSUE
 
-1. Click on the issues tab.
+1. Click on the issues tab.<br>
    <img src="./assets/issue1.PNG">
 
-2. Click on new issue if any of the already present issues do not interest you.
+2. Click on new issue if any of the already present issues do not interest you.<br>
    <img src="./assets/issue2.PNG">
 
-3. Click on Get started.
+3. Click on Get started.<br>
    <img src="./assets/issue3.PNG">
 
-4. Enter name of the issue and submit.
+4. Enter name of the issue and submit.<br>
    <img src="./assets/issue4.PNG">
 
 #### Wait for the issue to be assigned to you
