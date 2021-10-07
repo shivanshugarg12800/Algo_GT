@@ -1,0 +1,43 @@
+int getLargestRect(int arr[], int size)
+{
+    if(size == 0)
+       return 0
+    if(size == 1)
+       return arr[0]
+    Stack <Integer> S
+    int maxArea = 0
+    S.add(0) //adding the first index
+    for(int i= 1 to size-1; i+=1)
+    {
+       if(arr[i] >= S.peek())
+          S.add(i)
+       else
+       {
+           while(!S.isEmpty() && arr[S.peek()] > arr[i])
+           {
+              int curr = arr[S.pop()]
+              if(S.isEmpty())
+                 maxArea = max(maxArea, curr*i)
+              else
+              {
+                 maxArea = max(maxArea, curr*(i-S.peek()-1))
+              }
+           }
+           S.add(i)
+       }
+    }
+ 
+    if(!S.isEmpty())
+    {
+       int i = size 
+       while(!S.isEmpty())
+       {
+          int curr = arr[S.pop()]
+          if(S.isEmpty())
+             maxArea = max(maxArea, curr*i)
+         else
+             maxArea = max(maxArea, curr*(i-S.peek()-1))
+      }
+    }
+    return maxArea
+}
