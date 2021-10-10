@@ -27,4 +27,5 @@ You can head over here for a clear walk through to contribute to this repository
 [Contribution Guidelines](./CONTRIBUTING.md)
 
 <br>
-#### MOVE WELL, EAT WELL, REST WELL<BR>THE KAME STYLE IS WITH YOU.....
+
+#### MOVE WELL, EAT WELL, REST WELL<br>THE KAME STYLE IS WITH YOU...
