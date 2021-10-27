@@ -23,7 +23,7 @@ Feel free to make your contribution.
 
 ### HOW TO CONTRIBUTE
 
-You can head over here for a clear walk through to contribute to this repository.
+You can check here for a clear walk through to contribute to this repository.
 [Contribution Guidelines](./CONTRIBUTING.md)
 
 <br>
